@@ -1,6 +1,6 @@
 # Outline for Your Pre-Analysis Plan (PAP)
 
-You will use this outline to draft a short PAP. Start with parts 1 to 3 — we will discuss and present them on **Monday after lunch**. You can keep working on the remaining sections over the next few days.
+You will use this outline to draft a short PAP. Start with parts 1 to 3 — we will discuss and present them on **Tuesday after lunch**. You can keep working on the remaining sections over the next few days.
 
 ---
 
