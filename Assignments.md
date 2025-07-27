@@ -45,12 +45,6 @@ Using the **same groups** as for the PAP, select **one or two outcomes** to esti
    - What about **DiD**?
    - What are the **advantages and disadvantages** of each method?
 
-2. **Impact Estimation**
-   - What does your **ITT estimate** suggest?
-   - How does the **effect size** change using **ANCOVA**?
-   - What about **DiD**?
-   - What are the **advantages and disadvantages** of each method?
-
 3. **Non-Compliance**
    - What % of participants did **not comply** with treatment?
    - How do you handle this?
